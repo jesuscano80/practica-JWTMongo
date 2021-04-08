@@ -1,0 +1,17 @@
+http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+    
+    "token": "4eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYwNmViNWNmZmE0YTdkMjI3ODg3NjQzYSIsIm5hbWUiOiJob2xhIiwicGFzc3dvcmQiOiJwcnVlYmEiLCJhZG1pbiI6dHJ1ZSwiX192IjowfSwiaWF0IjoxNjE3ODcwNzYyfQ.pwM09aUMU-z8J4Gzeos2YkoanwjNY9hJIUc0_g36pFE"
+}
+
+
+
+# POST http://localhost:3000/api/aunthenticate
+# Content-Type: application/json
+
+# {
+#     "name":"hola",
+#     "password":"prueba"
+# }
